@@ -1,0 +1,5 @@
+Customer Info: 4667685
+Pay Info     : 983476356
+Show product : 2309847
+Add	     : 8023475
+Delete       : 082740
